@@ -1,0 +1,646 @@
+,austingw.LAT_DD_WGS84,austingw.LON_DD_WGS84,austingw.PARAMETER,austingw.RESULT,austingw.SAMPLE_DATE,austingw.SITE_NAME,austingw.SITE_TYPE,austingw.WATERSHED,austingw.UNIT,header
+3503,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,1/28/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+3505,30.30338848,-97.88887425,Flow (Cubic feet per second),0.081,1/28/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+3506,30.30338848,-97.88887425,Conductivity (uS/cm),871,1/28/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+3507,30.30338848,-97.88887425,pH (Standard units),7.1,1/28/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+3530,30.30338848,-97.88887425,Ammonia as N (mg/L),0.04,2/25/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+3532,30.30338848,-97.88887425,Flow (Cubic feet per second),0.0298,2/25/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+3533,30.30338848,-97.88887425,Conductivity (uS/cm),716,2/25/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+3534,30.30338848,-97.88887425,pH (Standard units),7.43,2/25/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+3535,30.30338848,-97.88887425,Turbidity (NTU),0.55,2/25/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+3536,30.26363726,-97.77303284,Flow (Cubic feet per second),2.84,2/25/1999,Barton Creek Upstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+3552,30.30338848,-97.88887425,Ammonia as N (mg/L),0.01,3/25/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+3554,30.30338848,-97.88887425,Conductivity (uS/cm),723,3/25/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+3555,30.30338848,-97.88887425,pH (Standard units),7.27,3/25/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+3556,30.30338848,-97.88887425,Turbidity (NTU),1.1,3/25/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+3625,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,4/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+3629,30.30338848,-97.88887425,Flow (Cubic feet per second),0.0265,4/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+3630,30.30338848,-97.88887425,Conductivity (uS/cm),772,4/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+3631,30.30338848,-97.88887425,Water temperature (Deg. Celsius),21.4,4/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+3632,30.30338848,-97.88887425,pH (Standard units),7.88,4/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+3633,30.30338848,-97.88887425,Turbidity (NTU),0.3,4/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+3654,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,6/24/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+3658,30.30338848,-97.88887425,Conductivity (uS/cm),968,6/24/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+3659,30.30338848,-97.88887425,Water temperature (Deg. Celsius),23.2,6/24/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+3660,30.30338848,-97.88887425,pH (Standard units),7.12,6/24/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+3661,30.30338848,-97.88887425,Turbidity (NTU),0.26,6/24/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+3662,30.30338848,-97.88887425,Turbidity (NTU),0.52,6/24/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+3706,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,7/15/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+3710,30.30338848,-97.88887425,Conductivity (uS/cm),1072,7/15/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+3711,30.30338848,-97.88887425,Water temperature (Deg. Celsius),23.3,7/15/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+3712,30.30338848,-97.88887425,pH (Standard units),6.99,7/15/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+3713,30.30338848,-97.88887425,Turbidity (NTU),0.8,7/15/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+3789,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,8/23/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+3792,30.30338848,-97.88887425,Flow (Cubic feet per second),0.173,8/23/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+3793,30.30338848,-97.88887425,Conductivity (uS/cm),1054,8/23/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+3794,30.30338848,-97.88887425,Water temperature (Deg. Celsius),24.4,8/23/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+3795,30.30338848,-97.88887425,pH (Standard units),6.96,8/23/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+3796,30.30338848,-97.88887425,Turbidity (NTU),0.15,8/23/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+3797,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,9/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+3800,30.30338848,-97.88887425,Conductivity (uS/cm),715,9/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+3801,30.30338848,-97.88887425,Water temperature (Deg. Celsius),24.7,9/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+3802,30.30338848,-97.88887425,pH (Standard units),6.83,9/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+3803,30.30338848,-97.88887425,Turbidity (NTU),0.43,9/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+3837,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,10/27/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+3840,30.30338848,-97.88887425,Flow (Cubic feet per second),0.0132,10/27/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+3841,30.30338848,-97.88887425,Conductivity (uS/cm),660,10/27/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+3842,30.30338848,-97.88887425,Water temperature (Deg. Celsius),23.5,10/27/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+3843,30.30338848,-97.88887425,pH (Standard units),7.15,10/27/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+3844,30.30338848,-97.88887425,Turbidity (NTU),0.71,10/27/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+3911,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,11/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+3914,30.30338848,-97.88887425,Conductivity (uS/cm),742,11/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+3915,30.30338848,-97.88887425,Water temperature (Deg. Celsius),23.3,11/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+3916,30.30338848,-97.88887425,pH (Standard units),7.19,11/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+3917,30.30338848,-97.88887425,Turbidity (NTU),0.29,11/22/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+3957,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,12/14/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+3960,30.30338848,-97.88887425,Conductivity (uS/cm),724,12/14/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+3961,30.30338848,-97.88887425,Water temperature (Deg. Celsius),21.3,12/14/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+3962,30.30338848,-97.88887425,pH (Standard units),6.82,12/14/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+3963,30.30338848,-97.88887425,Turbidity (NTU),1.04,12/14/1999,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+3986,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,1/25/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+3989,30.30338848,-97.88887425,Flow (Cubic feet per second),0.0135,1/25/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+3990,30.30338848,-97.88887425,Conductivity (uS/cm),1091,1/25/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+3991,30.30338848,-97.88887425,Water temperature (Deg. Celsius),19.5,1/25/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+3992,30.30338848,-97.88887425,pH (Standard units),6.72,1/25/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+3993,30.30338848,-97.88887425,Turbidity (NTU),0.49,1/25/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4023,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,2/28/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4026,30.30338848,-97.88887425,Flow (Cubic feet per second),0.0389,2/28/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+4027,30.30338848,-97.88887425,Conductivity (uS/cm),1015,2/28/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4028,30.30338848,-97.88887425,Water temperature (Deg. Celsius),20,2/28/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4029,30.30338848,-97.88887425,pH (Standard units),6.81,2/28/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4030,30.30338848,-97.88887425,Turbidity (NTU),0.49,2/28/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4087,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,3/15/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4088,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,3/15/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4093,30.30338848,-97.88887425,Flow (Cubic feet per second),0.135,3/15/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+4094,30.30338848,-97.88887425,Flow (Cubic feet per second),0.135,3/15/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+4095,30.30338848,-97.88887425,Conductivity (uS/cm),1157,3/15/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4096,30.30338848,-97.88887425,Conductivity (uS/cm),1159,3/15/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4097,30.30338848,-97.88887425,Water temperature (Deg. Celsius),19.3,3/15/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4098,30.30338848,-97.88887425,Water temperature (Deg. Celsius),19.4,3/15/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4099,30.30338848,-97.88887425,pH (Standard units),6.44,3/15/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4100,30.30338848,-97.88887425,pH (Standard units),6.44,3/15/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4101,30.30338848,-97.88887425,Turbidity (NTU),0.21,3/15/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4102,30.30338848,-97.88887425,Turbidity (NTU),0.31,3/15/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4135,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,4/11/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4138,30.30338848,-97.88887425,Flow (Cubic feet per second),0.0938,4/11/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+4139,30.30338848,-97.88887425,Conductivity (uS/cm),1171,4/11/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4140,30.30338848,-97.88887425,Water temperature (Deg. Celsius),19.7,4/11/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4141,30.30338848,-97.88887425,pH (Standard units),6.89,4/11/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4142,30.30338848,-97.88887425,Turbidity (NTU),0.54,4/11/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4186,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,5/18/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4189,30.30338848,-97.88887425,Flow (Cubic feet per second),0.054,5/18/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+4190,30.30338848,-97.88887425,Conductivity (uS/cm),1103,5/18/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4191,30.30338848,-97.88887425,Water temperature (Deg. Celsius),22.7,5/18/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4192,30.30338848,-97.88887425,pH (Standard units),6.9,5/18/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4193,30.30338848,-97.88887425,Turbidity (NTU),0.22,5/18/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4256,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,6/14/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4257,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,6/14/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4262,30.30338848,-97.88887425,Conductivity (uS/cm),1177,6/14/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4263,30.30338848,-97.88887425,Water temperature (Deg. Celsius),24.2,6/14/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4264,30.30338848,-97.88887425,pH (Standard units),7.11,6/14/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4265,30.30338848,-97.88887425,Turbidity (NTU),0.4,6/14/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4266,30.30338848,-97.88887425,Turbidity (NTU),0.41,6/14/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4274,30.24316997,-97.80545495,Flow (Cubic feet per second),0.95,6/23/2000,Barton Creek Upstream of Hwy 360,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+4313,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,7/17/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4314,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,7/17/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4319,30.30338848,-97.88887425,Conductivity (uS/cm),1162,7/17/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4320,30.30338848,-97.88887425,Water temperature (Deg. Celsius),24.4,7/17/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4321,30.30338848,-97.88887425,pH (Standard units),7.24,7/17/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4322,30.30338848,-97.88887425,Turbidity (NTU),0.27,7/17/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4323,30.30338848,-97.88887425,Turbidity (NTU),0.28,7/17/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4370,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,8/22/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4373,30.30338848,-97.88887425,Flow (Cubic feet per second),0.002,8/22/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+4374,30.30338848,-97.88887425,Conductivity (uS/cm),1060,8/22/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4375,30.30338848,-97.88887425,Water temperature (Deg. Celsius),26.4,8/22/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4376,30.30338848,-97.88887425,pH (Standard units),6.82,8/22/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4377,30.30338848,-97.88887425,Turbidity (NTU),0.48,8/22/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4395,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,9/12/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4398,30.30338848,-97.88887425,Conductivity (uS/cm),1322,9/12/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4399,30.30338848,-97.88887425,Water temperature (Deg. Celsius),25.5,9/12/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4400,30.30338848,-97.88887425,pH (Standard units),6.63,9/12/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4401,30.30338848,-97.88887425,Turbidity (NTU),0.28,9/12/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4402,30.26353512,-97.77097968,Conductivity (uS/cm),688,10/9/2000,Barton Spring,Spring,Barton Creek,uS/cm,TRUE
+4403,30.26353512,-97.77097968,Conductivity (uS/cm),692,10/9/2000,Barton Spring,Spring,Barton Creek,uS/cm,TRUE
+4404,30.26353512,-97.77097968,Conductivity (uS/cm),706,10/9/2000,Barton Spring,Spring,Barton Creek,uS/cm,TRUE
+4405,30.26353512,-97.77097968,Conductivity (uS/cm),712,10/9/2000,Barton Spring,Spring,Barton Creek,uS/cm,TRUE
+4406,30.26353512,-97.77097968,Water temperature (Deg. Celsius),21.4,10/9/2000,Barton Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4407,30.26353512,-97.77097968,Water temperature (Deg. Celsius),21.66,10/9/2000,Barton Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4408,30.26353512,-97.77097968,Water temperature (Deg. Celsius),21.7,10/9/2000,Barton Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4409,30.26353512,-97.77097968,Water temperature (Deg. Celsius),21.9,10/9/2000,Barton Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4410,30.26353512,-97.77097968,pH (Standard units),6.84,10/9/2000,Barton Spring,Spring,Barton Creek,Standard units,TRUE
+4411,30.26353512,-97.77097968,pH (Standard units),6.94,10/9/2000,Barton Spring,Spring,Barton Creek,Standard units,TRUE
+4412,30.26353512,-97.77097968,pH (Standard units),7.12,10/9/2000,Barton Spring,Spring,Barton Creek,Standard units,TRUE
+4413,30.26353512,-97.77097968,pH (Standard units),7.12,10/9/2000,Barton Spring,Spring,Barton Creek,Standard units,TRUE
+4414,30.26353512,-97.77097968,Turbidity (NTU),0.9,10/9/2000,Barton Spring,Spring,Barton Creek,NTU,TRUE
+4415,30.26353512,-97.77097968,Turbidity (NTU),1,10/9/2000,Barton Spring,Spring,Barton Creek,NTU,TRUE
+4439,30.30338848,-97.88887425,Ammonia as N (mg/L),0.03,10/31/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4440,30.30338848,-97.88887425,Ammonia as N (mg/L),0.06,10/31/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4445,30.30338848,-97.88887425,Flow (Cubic feet per second),0.022,10/31/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+4446,30.30338848,-97.88887425,Conductivity (uS/cm),1283,10/31/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4447,30.30338848,-97.88887425,Water temperature (Deg. Celsius),23.9,10/31/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4448,30.30338848,-97.88887425,pH (Standard units),6.86,10/31/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4449,30.30338848,-97.88887425,Turbidity (NTU),0.15,10/31/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4450,30.30338848,-97.88887425,Turbidity (NTU),0.28,10/31/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4474,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,11/28/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4477,30.30338848,-97.88887425,Conductivity (uS/cm),1152,11/28/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4478,30.30338848,-97.88887425,Water temperature (Deg. Celsius),20.6,11/28/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4479,30.30338848,-97.88887425,pH (Standard units),6.62,11/28/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4480,30.30338848,-97.88887425,Turbidity (NTU),0.17,11/28/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4511,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,12/19/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4512,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,12/19/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4517,30.30338848,-97.88887425,Conductivity (uS/cm),1169,12/19/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4518,30.30338848,-97.88887425,Water temperature (Deg. Celsius),19,12/19/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4519,30.30338848,-97.88887425,pH (Standard units),7.1,12/19/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4520,30.30338848,-97.88887425,Turbidity (NTU),0.24,12/19/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4521,30.30338848,-97.88887425,Turbidity (NTU),0.67,12/19/2000,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4597,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,1/25/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4600,30.30338848,-97.88887425,Flow (Cubic feet per second),0.00044,1/25/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+4601,30.30338848,-97.88887425,Conductivity (uS/cm),1059,1/25/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4602,30.30338848,-97.88887425,pH (Standard units),7.11,1/25/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4603,30.30338848,-97.88887425,Turbidity (NTU),0.21,1/25/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4611,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,2/28/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4614,30.30338848,-97.88887425,Conductivity (uS/cm),931,2/28/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4615,30.30338848,-97.88887425,Water temperature (Deg. Celsius),15.4,2/28/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4616,30.30338848,-97.88887425,pH (Standard units),7.22,2/28/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4617,30.30338848,-97.88887425,Turbidity (NTU),0.54,2/28/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4687,30.30338848,-97.88887425,Ammonia as N (mg/L),0.03,4/26/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4690,30.30338848,-97.88887425,Conductivity (uS/cm),1005,4/26/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4691,30.30338848,-97.88887425,Water temperature (Deg. Celsius),19.6,4/26/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4692,30.30338848,-97.88887425,pH (Standard units),6.96,4/26/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4693,30.30338848,-97.88887425,Turbidity (NTU),0.06,4/26/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4720,30.30338848,-97.88887425,Ammonia as N (mg/L),0.03,5/22/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4723,30.30338848,-97.88887425,Conductivity (uS/cm),1022,5/22/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4724,30.30338848,-97.88887425,Water temperature (Deg. Celsius),21,5/22/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4725,30.30338848,-97.88887425,pH (Standard units),7.12,5/22/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4726,30.30338848,-97.88887425,Turbidity (NTU),0.65,5/22/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4734,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,6/26/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4737,30.30338848,-97.88887425,Flow (Cubic feet per second),0.01,6/26/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+4738,30.30338848,-97.88887425,Conductivity (uS/cm),1041,6/26/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4739,30.30338848,-97.88887425,Water temperature (Deg. Celsius),24.3,6/26/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4740,30.30338848,-97.88887425,pH (Standard units),7.05,6/26/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4741,30.30338848,-97.88887425,Turbidity (NTU),0.44,6/26/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4797,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,7/24/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4800,30.30338848,-97.88887425,Flow (Cubic feet per second),0.0246,7/24/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+4801,30.30338848,-97.88887425,Conductivity (uS/cm),981,7/24/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4802,30.30338848,-97.88887425,Water temperature (Deg. Celsius),27.6,7/24/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4803,30.30338848,-97.88887425,pH (Standard units),6.98,7/24/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4804,30.30338848,-97.88887425,Turbidity (NTU),0.29,7/24/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4805,30.30338848,-97.88887425,Ammonia as N (mg/L),0.04,8/21/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4808,30.30338848,-97.88887425,Conductivity (uS/cm),1093,8/21/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4809,30.30338848,-97.88887425,Water temperature (Deg. Celsius),26.7,8/21/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4810,30.30338848,-97.88887425,pH (Standard units),6.63,8/21/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4811,30.30338848,-97.88887425,Turbidity (NTU),3.2,8/21/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4841,30.30338848,-97.88887425,Ammonia as N (mg/L),0.07,9/19/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4844,30.30338848,-97.88887425,Conductivity (uS/cm),1059,9/19/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4845,30.30338848,-97.88887425,Water temperature (Deg. Celsius),26.1,9/19/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4846,30.30338848,-97.88887425,pH (Standard units),6.89,9/19/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4847,30.30338848,-97.88887425,Turbidity (NTU),1.49,9/19/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+4887,30.30338848,-97.88887425,Ammonia as N (mg/L),0.02,10/17/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,MG/L,TRUE
+4890,30.30338848,-97.88887425,Conductivity (uS/cm),1117,10/17/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,uS/cm,TRUE
+4891,30.30338848,-97.88887425,Water temperature (Deg. Celsius),24.2,10/17/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+4892,30.30338848,-97.88887425,pH (Standard units),6.61,10/17/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,Standard units,TRUE
+4893,30.30338848,-97.88887425,Turbidity (NTU),0.31,10/17/2001,Barton Scenic Bluff Spring,Spring,Barton Creek,NTU,TRUE
+5491,30.26353512,-97.77097968,Flow (Cubic feet per second),70,1/22/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5493,30.26389528,-97.7708186,Flow (Cubic feet per second),4.2,1/22/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5494,30.26353512,-97.77097968,Flow (Cubic feet per second),69,1/25/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5496,30.26389528,-97.7708186,Flow (Cubic feet per second),0.797,1/25/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5497,30.26353512,-97.77097968,Flow (Cubic feet per second),50,1/29/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5498,30.26353512,-97.77097968,Flow (Cubic feet per second),66,1/29/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5499,30.25982155,-97.78470758,Flow (Cubic feet per second),0,1/29/2008,Barton Creek @ Campbells Hole Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5502,30.24469235,-97.80233932,Flow (Cubic feet per second),0,1/29/2008,Barton Creek @ Loop 360 (USGS),Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5503,30.26363155,-97.77247219,Flow (Cubic feet per second),0.98,1/29/2008,Barton Creek Between Dams Upstream of Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5504,30.26397896,-97.76811596,Flow (Cubic feet per second),0.1,1/29/2008,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5505,30.26389528,-97.7708186,Flow (Cubic feet per second),0.87,1/29/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5506,30.26389528,-97.7708186,Flow (Cubic feet per second),9.6,1/29/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5507,30.26408358,-97.76867081,Flow (Cubic feet per second),60,1/29/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5510,30.26405122,-97.77013586,Flow (Cubic feet per second),10.6,1/29/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5511,30.26389528,-97.7708186,Flow (Cubic feet per second),10.6,1/29/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5513,30.26363155,-97.77247219,Flow (Cubic feet per second),1,1/29/2008,Barton Creek Between Dams Upstream of Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5514,30.26353512,-97.77097968,Flow (Cubic feet per second),48,2/12/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5515,30.26353512,-97.77097968,Flow (Cubic feet per second),61,2/12/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5518,30.26363155,-97.77247219,Flow (Cubic feet per second),0.65,2/12/2008,Barton Creek Between Dams Upstream of Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5519,30.26389528,-97.7708186,Flow (Cubic feet per second),9.2,2/12/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5520,30.26408358,-97.76867081,Flow (Cubic feet per second),56,2/12/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5523,30.26405122,-97.77013586,Flow (Cubic feet per second),9.8,2/12/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5524,30.26367946,-97.77221814,Flow (Cubic feet per second),0.65,2/12/2008,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5525,30.26353512,-97.77097968,Flow (Cubic feet per second),60,2/20/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5527,30.26389528,-97.7708186,Flow (Cubic feet per second),0.16,2/20/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5528,30.26367946,-97.77221814,Flow (Cubic feet per second),15.79,2/20/2008,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5529,30.26405122,-97.77013586,Flow (Cubic feet per second),8.9,2/20/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5530,30.26389528,-97.7708186,Flow (Cubic feet per second),8.74,2/20/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5535,30.26353512,-97.77097968,Flow (Cubic feet per second),24,4/16/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5536,30.26353512,-97.77097968,Flow (Cubic feet per second),33,4/16/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5539,30.26363155,-97.77247219,Flow (Cubic feet per second),0.11,4/16/2008,Barton Creek Between Dams Upstream of Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5540,30.26397896,-97.76811596,Flow (Cubic feet per second),0.1,4/16/2008,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5541,30.26389528,-97.7708186,Flow (Cubic feet per second),7.7,4/16/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5544,30.26405122,-97.77013586,Flow (Cubic feet per second),7.8,4/16/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5545,30.26367946,-97.77221814,Flow (Cubic feet per second),0.1,4/16/2008,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5550,30.26363155,-97.77247219,Flow (Cubic feet per second),0,5/19/2008,Barton Creek Between Dams Upstream of Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5551,30.26397896,-97.76811596,Flow (Cubic feet per second),0.1,5/19/2008,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5552,30.26389528,-97.7708186,Flow (Cubic feet per second),0,5/19/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5553,30.26389528,-97.7708186,Flow (Cubic feet per second),6.3,5/19/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5556,30.26389528,-97.7708186,Flow (Cubic feet per second),6.3,5/20/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5557,30.26353512,-97.77097968,Flow (Cubic feet per second),0,5/29/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5558,30.26353512,-97.77097968,Flow (Cubic feet per second),29,5/29/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5559,30.26353512,-97.77097968,Flow (Cubic feet per second),36,5/29/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5561,30.24469235,-97.80233932,Flow (Cubic feet per second),0,5/29/2008,Barton Creek @ Loop 360 (USGS),Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5563,30.26389528,-97.7708186,Flow (Cubic feet per second),6.4,5/29/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5564,30.26408358,-97.76867081,Flow (Cubic feet per second),34,5/29/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5566,30.26405122,-97.77013586,Flow (Cubic feet per second),6.4,5/29/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5567,30.26353512,-97.77097968,Flow (Cubic feet per second),0,6/11/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5568,30.26353512,-97.77097968,Flow (Cubic feet per second),29,6/11/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5569,30.26353512,-97.77097968,Flow (Cubic feet per second),34,6/11/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5571,30.25982155,-97.78470758,Flow (Cubic feet per second),0,6/11/2008,Barton Creek @ Campbells Hole Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5574,30.24469235,-97.80233932,Flow (Cubic feet per second),0,6/11/2008,Barton Creek @ Loop 360 (USGS),Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5575,30.26397896,-97.76811596,Flow (Cubic feet per second),0.1,6/11/2008,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5578,30.26389528,-97.7708186,Flow (Cubic feet per second),6,6/11/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5579,30.26367946,-97.77221814,Flow (Cubic feet per second),0,6/11/2008,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5582,30.26405122,-97.77013586,Flow (Cubic feet per second),6,6/11/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5583,30.26408358,-97.76867081,Flow (Cubic feet per second),33,6/11/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5584,30.26353512,-97.77097968,Flow (Cubic feet per second),18,6/12/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5585,30.26353512,-97.77097968,Flow (Cubic feet per second),32,6/12/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5586,30.26408358,-97.76867081,Flow (Cubic feet per second),31,6/12/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5588,30.26400706,-97.76938256,Flow (Cubic feet per second),11,6/12/2008,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5590,30.26408358,-97.76867081,Flow (Cubic feet per second),32.5,6/17/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5591,30.26400706,-97.76938256,Flow (Cubic feet per second),6,6/17/2008,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5592,30.26405122,-97.77013586,Flow (Cubic feet per second),7.8,6/17/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5594,30.26408358,-97.76867081,Flow (Cubic feet per second),22.9,6/17/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5596,30.26408358,-97.76867081,Flow (Cubic feet per second),28.6,6/17/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5598,30.26408358,-97.76867081,Flow (Cubic feet per second),18.1,6/18/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5599,30.26353512,-97.77097968,Flow (Cubic feet per second),15,6/26/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5600,30.26353512,-97.77097968,Flow (Cubic feet per second),28,6/26/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5603,30.26400706,-97.76938256,Flow (Cubic feet per second),9,6/26/2008,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5606,30.26405122,-97.77013586,Flow (Cubic feet per second),6.7,6/26/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5607,30.26389528,-97.7708186,Flow (Cubic feet per second),6.7,6/26/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5608,30.26408358,-97.76867081,Flow (Cubic feet per second),24.18,6/26/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5610,30.26408358,-97.76867081,Flow (Cubic feet per second),27.9,6/26/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5611,30.26408358,-97.76867081,Flow (Cubic feet per second),27.6,7/2/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5612,30.26408358,-97.76867081,Flow (Cubic feet per second),33,7/2/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5613,30.26408358,-97.76867081,Flow (Cubic feet per second),32.6,7/2/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5615,30.26405122,-97.77013586,Flow (Cubic feet per second),7.62,7/2/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5617,30.26400706,-97.76938256,Flow (Cubic feet per second),8.72,7/2/2008,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5618,30.26408358,-97.76867081,Flow (Cubic feet per second),35.5,7/2/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5619,30.26408358,-97.76867081,Flow (Cubic feet per second),30.26,7/10/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5622,30.26405122,-97.77013586,Flow (Cubic feet per second),4.81,7/10/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5623,30.26400706,-97.76938256,Flow (Cubic feet per second),11.89,7/10/2008,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5624,30.26408358,-97.76867081,Flow (Cubic feet per second),24.67,7/18/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5625,30.26408358,-97.76867081,Flow (Cubic feet per second),25.72,7/24/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5626,30.26408358,-97.76867081,Flow (Cubic feet per second),28.24,8/7/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5627,30.26408358,-97.76867081,Flow (Cubic feet per second),26.96,8/7/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5631,30.26405122,-97.77013586,Flow (Cubic feet per second),6.79,8/7/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5632,30.26405122,-97.77013586,Flow (Cubic feet per second),6.03,8/7/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5633,30.26400706,-97.76938256,Flow (Cubic feet per second),12.99,8/7/2008,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5634,30.26408358,-97.76867081,Flow (Cubic feet per second),22.41,8/14/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5637,30.26405122,-97.77013586,Flow (Cubic feet per second),7.43,8/14/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5638,30.26400706,-97.76938256,Flow (Cubic feet per second),9.12,8/14/2008,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5640,30.26397896,-97.76811596,Flow (Cubic feet per second),0,8/20/2008,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5641,30.26408358,-97.76867081,Flow (Cubic feet per second),24.9,8/20/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5644,30.26405122,-97.77013586,Flow (Cubic feet per second),7.3,8/20/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5645,30.26400706,-97.76938256,Flow (Cubic feet per second),8.83,8/20/2008,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5647,30.26397896,-97.76811596,Flow (Cubic feet per second),0.13,8/29/2008,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5648,30.26408358,-97.76867081,Flow (Cubic feet per second),20.71,8/29/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5651,30.26405122,-97.77013586,Flow (Cubic feet per second),8.21,8/29/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5652,30.26400706,-97.76938256,Flow (Cubic feet per second),9.13,8/29/2008,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5653,30.26397896,-97.76811596,Flow (Cubic feet per second),0.09,9/5/2008,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5654,30.26408358,-97.76867081,Flow (Cubic feet per second),22.46,9/5/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5657,30.26405122,-97.77013586,Flow (Cubic feet per second),7.5,9/5/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5658,30.26400706,-97.76938256,Flow (Cubic feet per second),7.5,9/5/2008,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5659,30.26408358,-97.76867081,Flow (Cubic feet per second),21.51,9/5/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5662,30.26405122,-97.77013586,Flow (Cubic feet per second),7.63,9/5/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5663,30.26408358,-97.76867081,Flow (Cubic feet per second),24.69,9/5/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5664,30.26408358,-97.76867081,Flow (Cubic feet per second),24.74,9/19/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5667,30.26405122,-97.77013586,Flow (Cubic feet per second),8.61,9/19/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5668,30.26397896,-97.76811596,Flow (Cubic feet per second),0.02,9/19/2008,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5669,30.26400706,-97.76938256,Flow (Cubic feet per second),7.32,9/19/2008,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5670,30.26408358,-97.76867081,Flow (Cubic feet per second),34.39,9/19/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5673,30.26405122,-97.77013586,Flow (Cubic feet per second),8.84,9/19/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5674,30.26408358,-97.76867081,Flow (Cubic feet per second),35.56,9/19/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5675,30.26408358,-97.76867081,Flow (Cubic feet per second),23.39,9/26/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5678,30.26405122,-97.77013586,Flow (Cubic feet per second),8.15,9/26/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5680,30.26400706,-97.76938256,Flow (Cubic feet per second),7.08,9/26/2008,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5681,30.26408358,-97.76867081,Flow (Cubic feet per second),22.45,9/26/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5684,30.26405122,-97.77013586,Flow (Cubic feet per second),7.91,9/26/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5685,30.26408358,-97.76867081,Flow (Cubic feet per second),22.72,9/26/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5686,30.26353512,-97.77097968,Flow (Cubic feet per second),14,10/3/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5687,30.26353512,-97.77097968,Flow (Cubic feet per second),18,10/3/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5688,30.26353512,-97.77097968,Flow (Cubic feet per second),18.8,10/3/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5689,30.26353512,-97.77097968,Flow (Cubic feet per second),22.8,10/3/2008,Barton Spring,Spring,Barton Creek,Cubic Feet Per Second,TRUE
+5692,30.26389528,-97.7708186,Flow (Cubic feet per second),8.8,10/3/2008,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Feet,TRUE
+5693,30.26408358,-97.76867081,Flow (Cubic feet per second),22.53,10/3/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5695,30.26405122,-97.77013586,Flow (Cubic feet per second),8.75,10/3/2008,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5696,30.26400706,-97.76938256,Flow (Cubic feet per second),4.8,10/3/2008,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5698,30.26408358,-97.76867081,Flow (Cubic feet per second),24.33,10/3/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5700,30.26397896,-97.76811596,Flow (Cubic feet per second),0.36,10/3/2008,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5701,30.26408358,-97.76867081,Flow (Cubic feet per second),22.59,10/7/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5703,30.26408358,-97.76867081,Flow (Cubic feet per second),22.9,10/10/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5704,30.26400706,-97.76938256,Flow (Cubic feet per second),6.98,10/10/2008,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5705,30.26408358,-97.76867081,Flow (Cubic feet per second),22.21,10/10/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5706,30.26408358,-97.76867081,Flow (Cubic feet per second),21.83,10/10/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5708,30.26408358,-97.76867081,Flow (Cubic feet per second),19.82,10/10/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5709,30.26408358,-97.76867081,Flow (Cubic feet per second),24.8,10/17/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5710,30.26408358,-97.76867081,Flow (Cubic feet per second),24,10/17/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5711,30.26397896,-97.76811596,Flow (Cubic feet per second),0.8,10/17/2008,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5712,30.26408358,-97.76867081,Flow (Cubic feet per second),25.3,10/17/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5714,30.26408358,-97.76867081,Flow (Cubic feet per second),19.796,10/31/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5715,30.26397896,-97.76811596,Flow (Cubic feet per second),0.9,10/31/2008,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5716,30.26408358,-97.76867081,Flow (Cubic feet per second),20.235,10/31/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5717,30.26408358,-97.76867081,Flow (Cubic feet per second),19.895,11/7/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5718,30.26408358,-97.76867081,Flow (Cubic feet per second),18.344,11/7/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5719,30.26408358,-97.76867081,Flow (Cubic feet per second),19.717,11/7/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5720,30.26397896,-97.76811596,Flow (Cubic feet per second),0.83,11/7/2008,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5721,30.26397896,-97.76811596,Flow (Cubic feet per second),0.59,11/14/2008,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5722,30.26408358,-97.76867081,Flow (Cubic feet per second),18.158,11/14/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5723,30.26408358,-97.76867081,Flow (Cubic feet per second),18.973,11/21/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5724,30.26408358,-97.76867081,Flow (Cubic feet per second),18.917,11/21/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5725,30.26408358,-97.76867081,Flow (Cubic feet per second),20.228,12/5/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5726,30.26408358,-97.76867081,Flow (Cubic feet per second),19.171,12/5/2008,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5727,30.26408358,-97.76867081,Flow (Cubic feet per second),18.282,1/5/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5728,30.26397896,-97.76811596,Flow (Cubic feet per second),0.41,1/8/2009,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5729,30.26408358,-97.76867081,Flow (Cubic feet per second),19.868,1/8/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5730,30.26397896,-97.76811596,Flow (Cubic feet per second),0.11,1/15/2009,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5731,30.26408358,-97.76867081,Flow (Cubic feet per second),20.796,1/15/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5732,30.26408358,-97.76867081,Flow (Cubic feet per second),16.96,1/23/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5733,30.26408358,-97.76867081,Flow (Cubic feet per second),15.076,2/5/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5736,30.26408358,-97.76867081,Flow (Cubic feet per second),21.9,2/12/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5737,30.26408358,-97.76867081,Flow (Cubic feet per second),19.3,2/12/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5738,30.26408358,-97.76867081,Flow (Cubic feet per second),22.2,2/12/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5744,30.26353512,-97.77097968,Conductivity (uS/cm),700,2/25/2009,Barton Spring,Spring,Barton Creek,uS/cm,TRUE
+5745,30.26353512,-97.77097968,Water temperature (Deg. Celsius),21.88,2/25/2009,Barton Spring,Spring,Barton Creek,Deg. Celsius,TRUE
+5746,30.26353512,-97.77097968,pH (Standard units),7.31,2/25/2009,Barton Spring,Spring,Barton Creek,Standard units,TRUE
+5747,30.26353512,-97.77097968,Turbidity (NTU),0,2/25/2009,Barton Spring,Spring,Barton Creek,NTU,TRUE
+5749,30.26400706,-97.76938256,Conductivity (uS/cm),692,2/25/2009,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,uS/cm,TRUE
+5750,30.26400706,-97.76938256,Water temperature (Deg. Celsius),22.11,2/25/2009,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Deg. Celsius,TRUE
+5751,30.26400706,-97.76938256,pH (Standard units),7.38,2/25/2009,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Standard units,TRUE
+5752,30.26400706,-97.76938256,Turbidity (NTU),0,2/25/2009,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,NTU,TRUE
+5755,30.26408358,-97.76867081,Flow (Cubic feet per second),18.656,2/27/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5756,30.26408358,-97.76867081,Flow (Cubic feet per second),25.753,3/3/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5757,30.26408358,-97.76867081,Flow (Cubic feet per second),20.505,3/6/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5758,30.26408358,-97.76867081,Flow (Cubic feet per second),19.127,3/6/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5759,30.26408358,-97.76867081,Flow (Cubic feet per second),16.894,4/16/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5760,30.26408358,-97.76867081,Flow (Cubic feet per second),15.609,4/16/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5761,30.26408358,-97.76867081,Flow (Cubic feet per second),17.309,5/21/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5762,30.26408358,-97.76867081,Flow (Cubic feet per second),17.055,6/10/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5763,30.26408358,-97.76867081,Flow (Cubic feet per second),17.154,6/10/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5764,30.26408358,-97.76867081,Flow (Cubic feet per second),17.573,6/10/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5765,30.26408358,-97.76867081,Flow (Cubic feet per second),15.155,6/24/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5766,30.26408358,-97.76867081,Flow (Cubic feet per second),20.976,6/29/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5767,30.26408358,-97.76867081,Flow (Cubic feet per second),18.368,7/1/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5768,30.26408358,-97.76867081,Flow (Cubic feet per second),14.542,7/1/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5769,30.26408358,-97.76867081,Flow (Cubic feet per second),18.236,7/1/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5770,30.26408358,-97.76867081,Flow (Cubic feet per second),17.537,7/8/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5771,30.26408358,-97.76867081,Flow (Cubic feet per second),16.935,7/8/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5772,30.26408358,-97.76867081,Flow (Cubic feet per second),14.593,7/13/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5773,30.26408358,-97.76867081,Flow (Cubic feet per second),15.797,7/21/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5774,30.26408358,-97.76867081,Flow (Cubic feet per second),14.157,7/21/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5775,30.26408358,-97.76867081,Flow (Cubic feet per second),15.895,7/21/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5776,30.26408358,-97.76867081,Flow (Cubic feet per second),14.559,7/30/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5777,30.26408358,-97.76867081,Flow (Cubic feet per second),15.461,7/30/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5778,30.26408358,-97.76867081,Flow (Cubic feet per second),16.9,8/14/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5779,30.26408358,-97.76867081,Flow (Cubic feet per second),16.421,8/14/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5780,30.26408358,-97.76867081,Flow (Cubic feet per second),14.092,8/14/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5781,30.26408358,-97.76867081,Flow (Cubic feet per second),14.362,8/20/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5782,30.26408358,-97.76867081,Flow (Cubic feet per second),15.14,8/20/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5783,30.26408358,-97.76867081,Flow (Cubic feet per second),14.301,9/4/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5784,30.26408358,-97.76867081,Flow (Cubic feet per second),13.87,9/4/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5785,30.26408358,-97.76867081,Flow (Cubic feet per second),12.063,9/4/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5786,30.26408358,-97.76867081,Flow (Cubic feet per second),18.519,9/11/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5787,30.26408358,-97.76867081,Flow (Cubic feet per second),18.178,9/11/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5789,30.26408358,-97.76867081,Flow (Cubic feet per second),21.019,9/18/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5790,30.26408358,-97.76867081,Flow (Cubic feet per second),20.918,9/18/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5792,30.26408358,-97.76867081,Flow (Cubic feet per second),28.785,9/25/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5793,30.26408358,-97.76867081,Flow (Cubic feet per second),29.01,9/25/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5794,30.26408358,-97.76867081,Flow (Cubic feet per second),28.964,9/25/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5795,30.26408358,-97.76867081,Flow (Cubic feet per second),57.135,10/16/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5797,30.26408358,-97.76867081,Flow (Cubic feet per second),189.125,10/30/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5799,30.26363155,-97.77247219,Flow (Cubic feet per second),123.176,10/30/2009,Barton Creek Between Dams Upstream of Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5800,30.26408358,-97.76867081,Flow (Cubic feet per second),93.239,11/6/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5801,30.26363155,-97.77247219,Flow (Cubic feet per second),41.563,11/6/2009,Barton Creek Between Dams Upstream of Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5802,30.26408358,-97.76867081,Flow (Cubic feet per second),97.459,11/6/2009,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5805,30.26408358,-97.76867081,Flow (Cubic feet per second),192.608,1/22/2010,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5806,30.26408358,-97.76867081,Flow (Cubic feet per second),195.435,1/22/2010,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5807,30.26363155,-97.77247219,Flow (Cubic feet per second),108.885,1/22/2010,Barton Creek Between Dams Upstream of Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5808,30.26408358,-97.76867081,Flow (Cubic feet per second),191.915,1/22/2010,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5809,30.26408358,-97.76867081,Flow (Cubic feet per second),240.205,3/23/2010,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5810,30.26408358,-97.76867081,Flow (Cubic feet per second),256.278,3/23/2010,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5812,30.26363155,-97.77247219,Flow (Cubic feet per second),146.714,3/23/2010,Barton Creek Between Dams Upstream of Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5813,30.26408358,-97.76867081,Flow (Cubic feet per second),240.229,3/23/2010,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5815,30.26408358,-97.76867081,Flow (Cubic feet per second),250.2,3/26/2010,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5816,30.26408358,-97.76867081,Flow (Cubic feet per second),239.425,3/26/2010,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5817,30.26397896,-97.76811596,Flow (Cubic feet per second),2.12,3/26/2010,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5819,30.26363155,-97.77247219,Flow (Cubic feet per second),149.682,3/26/2010,Barton Creek Between Dams Upstream of Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5820,30.26408358,-97.76867081,Flow (Cubic feet per second),212.412,3/30/2010,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5821,30.26408358,-97.76867081,Flow (Cubic feet per second),216.169,3/30/2010,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5822,30.26397896,-97.76811596,Flow (Cubic feet per second),3.32,3/30/2010,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5825,30.26363155,-97.77247219,Flow (Cubic feet per second),108.61,3/30/2010,Barton Creek Between Dams Upstream of Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5826,30.26408358,-97.76867081,Flow (Cubic feet per second),221.536,3/30/2010,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5828,30.26408358,-97.76867081,Flow (Cubic feet per second),198.927,4/1/2010,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5829,30.26397896,-97.76811596,Flow (Cubic feet per second),2.68,4/1/2010,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5831,30.26408358,-97.76867081,Flow (Cubic feet per second),193.912,4/1/2010,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5832,30.26363155,-97.77247219,Flow (Cubic feet per second),95.342,4/1/2010,Barton Creek Between Dams Upstream of Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5834,30.26397896,-97.76811596,Flow (Cubic feet per second),2.45,5/4/2010,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5836,30.26408358,-97.76867081,Flow (Cubic feet per second),94.181,5/4/2010,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5838,30.26389528,-97.7708186,Flow (Cubic feet per second),21.559,5/4/2010,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5839,30.26367946,-97.77221814,Flow (Cubic feet per second),13.926,5/4/2010,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5843,30.26389528,-97.7708186,Flow (Cubic feet per second),30.428,5/7/2010,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5844,30.26367946,-97.77221814,Flow (Cubic feet per second),8.417,5/7/2010,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5845,30.26408358,-97.76867081,Flow (Cubic feet per second),79.6,8/5/2010,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5847,30.26408358,-97.76867081,Flow (Cubic feet per second),36.8,3/25/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5851,30.26408358,-97.76867081,Flow (Cubic feet per second),38.6,4/1/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5853,30.26389528,-97.7708186,Flow (Cubic feet per second),14,4/1/2011,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5856,30.26408358,-97.76867081,Flow (Cubic feet per second),38.3,4/6/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5858,30.26408358,-97.76867081,Flow (Cubic feet per second),32.6,4/13/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5861,30.26389528,-97.7708186,Flow (Cubic feet per second),13.5,4/13/2011,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5862,30.26408358,-97.76867081,Flow (Cubic feet per second),31.3,4/18/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5864,30.26408358,-97.76867081,Flow (Cubic feet per second),28.3,4/18/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5866,30.26389528,-97.7708186,Flow (Cubic feet per second),13.8,4/18/2011,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5869,30.26408358,-97.76867081,Flow (Cubic feet per second),26.7,4/29/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5872,30.26397896,-97.76811596,Flow (Cubic feet per second),0.087,5/23/2011,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5876,30.26408358,-97.76867081,Flow (Cubic feet per second),26.9,5/23/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5878,30.26389528,-97.7708186,Flow (Cubic feet per second),6.72,5/23/2011,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5879,30.26408358,-97.76867081,Flow (Cubic feet per second),27.2,5/23/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5880,30.26400706,-97.76938256,Flow (Cubic feet per second),11.4,5/23/2011,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5881,30.26400706,-97.76938256,Flow (Cubic feet per second),9,5/25/2011,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5882,30.26397896,-97.76811596,Flow (Cubic feet per second),0.053,5/25/2011,Barton Creek @ Upper Sunken Garden Pipe Outfall,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5885,30.26408358,-97.76867081,Flow (Cubic feet per second),25.9,5/25/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5887,30.26389528,-97.7708186,Flow (Cubic feet per second),10.5,5/25/2011,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5891,30.26408358,-97.76867081,Flow (Cubic feet per second),18.6527,7/21/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5893,30.26389528,-97.7708186,Flow (Cubic feet per second),3.5511,7/21/2011,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5894,30.26408358,-97.76867081,Flow (Cubic feet per second),23.0388,7/21/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5895,30.26408358,-97.76867081,Flow (Cubic feet per second),21.7803,8/11/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5897,30.26389528,-97.7708186,Flow (Cubic feet per second),8.7848,8/11/2011,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5899,30.26408358,-97.76867081,Flow (Cubic feet per second),19.57,8/24/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5900,30.26408358,-97.76867081,Flow (Cubic feet per second),18.97,8/26/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5901,30.26408358,-97.76867081,Flow (Cubic feet per second),20.6333,9/2/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5902,30.26408358,-97.76867081,Flow (Cubic feet per second),20.2511,9/2/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5904,30.26389528,-97.7708186,Flow (Cubic feet per second),9.3308,9/2/2011,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5905,30.26408358,-97.76867081,Flow (Cubic feet per second),17.3316,9/2/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5906,30.26408358,-97.76867081,Flow (Cubic feet per second),19.5431,9/2/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5908,30.26408358,-97.76867081,Flow (Cubic feet per second),17.2057,10/20/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5909,30.26408358,-97.76867081,Flow (Cubic feet per second),15.4085,11/3/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5913,30.26408358,-97.76867081,Flow (Cubic feet per second),13.9,11/10/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5915,30.26389528,-97.7708186,Flow (Cubic feet per second),9.559,11/10/2011,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5917,30.26408358,-97.76867081,Flow (Cubic feet per second),20.7933,11/18/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5919,30.26405122,-97.77013586,Flow (Cubic feet per second),9.3662,11/18/2011,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5923,30.26408358,-97.76867081,Flow (Cubic feet per second),20.2,12/20/2011,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5925,30.26389528,-97.7708186,Flow (Cubic feet per second),10.52,12/20/2011,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5928,30.26408358,-97.76867081,Flow (Cubic feet per second),23.1,1/6/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5930,30.26405122,-97.77013586,Flow (Cubic feet per second),10.18,1/6/2012,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5931,30.26408358,-97.76867081,Flow (Cubic feet per second),45.57,2/11/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5932,30.26408358,-97.76867081,Flow (Cubic feet per second),73,4/13/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5934,30.26405122,-97.77013586,Flow (Cubic feet per second),14.05,4/13/2012,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5935,30.26367946,-97.77221814,Flow (Cubic feet per second),4.3,4/13/2012,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5937,30.26408358,-97.76867081,Flow (Cubic feet per second),80.76,6/6/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5939,30.26408358,-97.76867081,Flow (Cubic feet per second),74.83,6/13/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5940,30.26408358,-97.76867081,Water temperature (Deg. Celsius),75.8,6/13/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+5942,30.26405122,-97.77013586,Flow (Cubic feet per second),13.73,6/13/2012,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5943,30.26367946,-97.77221814,Flow (Cubic feet per second),3.37,6/13/2012,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5945,30.26408358,-97.76867081,Flow (Cubic feet per second),75.19,6/18/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5946,30.26408358,-97.76867081,Water temperature (Deg. Celsius),76.3,6/18/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+5947,30.26408358,-97.76867081,Flow (Cubic feet per second),71.99,6/20/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5948,30.26408358,-97.76867081,Water temperature (Deg. Celsius),76.1,6/20/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+5949,30.26408358,-97.76867081,Flow (Cubic feet per second),57.83,6/29/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5950,30.26408358,-97.76867081,Water temperature (Deg. Celsius),76.7,6/29/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+5952,30.26405122,-97.77013586,Flow (Cubic feet per second),12.04,6/29/2012,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5955,30.26400706,-97.76938256,Flow (Cubic feet per second),27,8/6/2012,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5956,30.26405122,-97.77013586,Flow (Cubic feet per second),16.5,8/6/2012,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5957,30.26367946,-97.77221814,Flow (Cubic feet per second),2.2,8/6/2012,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5958,30.26408358,-97.76867081,Flow (Cubic feet per second),65,8/6/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5959,30.26408358,-97.76867081,Water temperature (Deg. Celsius),74.2,8/6/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+5961,30.26408358,-97.76867081,Flow (Cubic feet per second),42.94,9/14/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5962,30.26408358,-97.76867081,Water temperature (Deg. Celsius),71.5,9/14/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+5964,30.26405122,-97.77013586,Flow (Cubic feet per second),14.75,9/14/2012,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5965,30.26367946,-97.77221814,Flow (Cubic feet per second),1.12,9/14/2012,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5967,30.26408358,-97.76867081,Flow (Cubic feet per second),44.11,9/21/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5968,30.26408358,-97.76867081,Water temperature (Deg. Celsius),73.5,9/21/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+5970,30.26389528,-97.7708186,Flow (Cubic feet per second),15.63,9/21/2012,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5972,30.26408358,-97.76867081,Flow (Cubic feet per second),39.61,9/28/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5973,30.26408358,-97.76867081,Water temperature (Deg. Celsius),73.1,9/28/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+5975,30.26389528,-97.7708186,Flow (Cubic feet per second),13.24,9/28/2012,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5977,30.26408358,-97.76867081,Flow (Cubic feet per second),37.8,10/12/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5978,30.26408358,-97.76867081,Water temperature (Deg. Celsius),72.2,10/12/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+5980,30.26405122,-97.77013586,Flow (Cubic feet per second),14.51,10/12/2012,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5982,30.26408358,-97.76867081,Flow (Cubic feet per second),36.36,10/26/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5983,30.26408358,-97.76867081,Water temperature (Deg. Celsius),71.5,10/26/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+5985,30.26405122,-97.77013586,Flow (Cubic feet per second),11.73,10/26/2012,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5987,30.26408358,-97.76867081,Flow (Cubic feet per second),31.27,11/2/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5988,30.26408358,-97.76867081,Water temperature (Deg. Celsius),73.3,11/2/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+5990,30.26405122,-97.77013586,Flow (Cubic feet per second),3.38,11/2/2012,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5992,30.26408358,-97.76867081,Flow (Cubic feet per second),32.064,11/9/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5994,30.26408358,-97.76867081,Flow (Cubic feet per second),25.97,11/30/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5996,30.26408358,-97.76867081,Flow (Cubic feet per second),24.25,12/7/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5998,30.26408358,-97.76867081,Flow (Cubic feet per second),27.4,12/14/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+5999,30.26408358,-97.76867081,Water temperature (Deg. Celsius),71.5,12/14/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6001,30.26408358,-97.76867081,Flow (Cubic feet per second),27.27,12/14/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6002,30.26408358,-97.76867081,Water temperature (Deg. Celsius),71.3,12/14/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6004,30.26408358,-97.76867081,Flow (Cubic feet per second),34.06,12/21/2012,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6006,30.26408358,-97.76867081,Flow (Cubic feet per second),31.11,1/11/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6007,30.26408358,-97.76867081,Water temperature (Deg. Celsius),71.6,1/11/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6010,30.26408358,-97.76867081,Flow (Cubic feet per second),28.17,1/18/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6011,30.26408358,-97.76867081,Water temperature (Deg. Celsius),71.6,1/18/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6013,30.26408358,-97.76867081,Flow (Cubic feet per second),27.8,1/25/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6014,30.26408358,-97.76867081,Water temperature (Deg. Celsius),72.9,1/25/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6016,30.26408358,-97.76867081,Flow (Cubic feet per second),22.99,2/1/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6017,30.26408358,-97.76867081,Water temperature (Deg. Celsius),72.4,2/1/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6018,30.26408358,-97.76867081,Flow (Cubic feet per second),24.93,2/1/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6019,30.26408358,-97.76867081,Water temperature (Deg. Celsius),72.5,2/1/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6021,30.26408358,-97.76867081,Flow (Cubic feet per second),20.71,2/15/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6022,30.26408358,-97.76867081,Water temperature (Deg. Celsius),71.8,2/15/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6024,30.26408358,-97.76867081,Flow (Cubic feet per second),23.17,2/22/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6025,30.26408358,-97.76867081,Water temperature (Deg. Celsius),72.2,2/22/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6027,30.26408358,-97.76867081,Flow (Cubic feet per second),21.88,3/12/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6028,30.26408358,-97.76867081,Water temperature (Deg. Celsius),72.7,3/12/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6030,30.26367946,-97.77221814,Flow (Cubic feet per second),0,3/22/2013,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6031,30.26408358,-97.76867081,Flow (Cubic feet per second),27.95,3/22/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6032,30.26408358,-97.76867081,Water temperature (Deg. Celsius),73.6,3/22/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6036,30.26408358,-97.76867081,Flow (Cubic feet per second),23.2,4/19/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6037,30.26408358,-97.76867081,Water temperature (Deg. Celsius),73.3,4/19/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6039,30.26408358,-97.76867081,Flow (Cubic feet per second),23.13,4/26/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6040,30.26408358,-97.76867081,Water temperature (Deg. Celsius),72.7,4/26/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6041,30.26408358,-97.76867081,Flow (Cubic feet per second),24.77,4/26/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6042,30.26408358,-97.76867081,Water temperature (Deg. Celsius),74.3,4/26/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6043,30.26408358,-97.76867081,Flow (Cubic feet per second),26.7,4/26/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6044,30.26408358,-97.76867081,Flow (Cubic feet per second),21.83,4/26/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6045,30.26408358,-97.76867081,Water temperature (Deg. Celsius),73.8,4/26/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6047,30.26408358,-97.76867081,Flow (Cubic feet per second),16.4,6/21/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6048,30.26408358,-97.76867081,Flow (Cubic feet per second),18,6/21/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6050,30.26408358,-97.76867081,Flow (Cubic feet per second),18.1,6/28/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6051,30.26408358,-97.76867081,Flow (Cubic feet per second),18.1,6/28/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6052,30.26408358,-97.76867081,Water temperature (Deg. Celsius),74.5,6/28/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6053,30.26408358,-97.76867081,Water temperature (Deg. Celsius),74.5,6/28/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6057,30.26400706,-97.76938256,Flow (Cubic feet per second),8,6/28/2013,Barton Spring Pool @ Downstream Dam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6058,30.26389528,-97.7708186,Flow (Cubic feet per second),6.4,6/28/2013,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6061,30.26408358,-97.76867081,Flow (Cubic feet per second),15.79,7/12/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6062,30.26408358,-97.76867081,Flow (Cubic feet per second),18.13,7/12/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6063,30.26408358,-97.76867081,Water temperature (Deg. Celsius),71.5,7/12/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6065,30.26389528,-97.7708186,Flow (Cubic feet per second),6.46,7/12/2013,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6066,30.26408358,-97.76867081,Flow (Cubic feet per second),14.445,7/31/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6068,30.26405122,-97.77013586,Flow (Cubic feet per second),6.9074,7/31/2013,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6070,30.26408358,-97.76867081,Flow (Cubic feet per second),21.6395,9/27/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6071,30.26405122,-97.77013586,Flow (Cubic feet per second),6.0722,10/4/2013,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6073,30.26408358,-97.76867081,Flow (Cubic feet per second),26.7132,10/4/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6075,30.26408358,-97.76867081,Flow (Cubic feet per second),24.0329,10/11/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6077,30.26408358,-97.76867081,Flow (Cubic feet per second),61.65,10/24/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6079,30.26367946,-97.77221814,Flow (Cubic feet per second),1.928,10/24/2013,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6080,30.26408358,-97.76867081,Flow (Cubic feet per second),66.6007,10/25/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6082,30.26405122,-97.77013586,Flow (Cubic feet per second),1.9302,10/25/2013,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6084,30.26367946,-97.77221814,Flow (Cubic feet per second),1.9459,10/25/2013,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6085,30.26408358,-97.76867081,Flow (Cubic feet per second),97.27,11/15/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6086,30.26408358,-97.76867081,Water temperature (Deg. Celsius),71.8,11/15/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6089,30.26408358,-97.76867081,Flow (Cubic feet per second),107,12/6/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6090,30.26408358,-97.76867081,Water temperature (Deg. Celsius),68.6,12/6/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6093,30.26408358,-97.76867081,Flow (Cubic feet per second),87.02,12/16/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6094,30.26408358,-97.76867081,Water temperature (Deg. Celsius),64.8,12/16/2013,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6096,30.26389528,-97.7708186,Flow (Cubic feet per second),20.26,12/16/2013,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6099,30.26408358,-97.76867081,Flow (Cubic feet per second),58.62,1/17/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6100,30.26408358,-97.76867081,Flow (Cubic feet per second),60.84,1/17/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6102,30.26408358,-97.76867081,Flow (Cubic feet per second),47.19,3/28/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6104,30.26389528,-97.7708186,Flow (Cubic feet per second),6.62,3/28/2014,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6106,30.26408358,-97.76867081,Flow (Cubic feet per second),104.1505,5/30/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6107,30.26408358,-97.76867081,Water temperature (Deg. Celsius),74.6,5/30/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6109,30.26389528,-97.7708186,Flow (Cubic feet per second),36.0827,5/30/2014,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6111,30.26367946,-97.77221814,Flow (Cubic feet per second),42.1665,5/30/2014,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6112,30.26408358,-97.76867081,Flow (Cubic feet per second),55.24,6/3/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6113,30.26408358,-97.76867081,Water temperature (Deg. Celsius),71.14,6/3/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6114,30.26408358,-97.76867081,Flow (Cubic feet per second),58,6/3/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6116,30.26367946,-97.77221814,Flow (Cubic feet per second),4.16,6/3/2014,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6117,30.26389528,-97.7708186,Flow (Cubic feet per second),10.04,6/3/2014,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6119,30.26408358,-97.76867081,Flow (Cubic feet per second),48.5271,7/3/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6120,30.26408358,-97.76867081,Water temperature (Deg. Celsius),74.9,7/3/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6121,30.26408358,-97.76867081,Flow (Cubic feet per second),38.2817,7/3/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6122,30.26408358,-97.76867081,Water temperature (Deg. Celsius),74.9,7/3/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6125,30.26389528,-97.7708186,Flow (Cubic feet per second),6.868,7/3/2014,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6126,30.26408358,-97.76867081,Flow (Cubic feet per second),35.9852,8/5/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6127,30.26408358,-97.76867081,Water temperature (Deg. Celsius),75.5,8/5/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6129,30.26389528,-97.7708186,Flow (Cubic feet per second),4.4646,8/5/2014,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6132,30.26408358,-97.76867081,Flow (Cubic feet per second),28.9,8/27/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6134,30.26389528,-97.7708186,Flow (Cubic feet per second),4.75,8/27/2014,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6136,30.26408358,-97.76867081,Flow (Cubic feet per second),30.81,8/27/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6138,30.26389528,-97.7708186,Flow (Cubic feet per second),4.41,8/27/2014,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6139,30.26408358,-97.76867081,Flow (Cubic feet per second),24.98,8/27/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6141,30.26389528,-97.7708186,Flow (Cubic feet per second),3.22,8/27/2014,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6142,30.26408358,-97.76867081,Flow (Cubic feet per second),23.28,8/27/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6144,30.26389528,-97.7708186,Flow (Cubic feet per second),2.17,8/27/2014,Barton Springs Pool Bypass Downstream Leaking Seam,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6146,30.26408358,-97.76867081,Flow (Cubic feet per second),48.56,9/24/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6147,30.26408358,-97.76867081,Water temperature (Deg. Celsius),71.5,9/24/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6149,30.26408358,-97.76867081,Flow (Cubic feet per second),39.83,10/1/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6150,30.26408358,-97.76867081,Water temperature (Deg. Celsius),70.4,10/1/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6152,30.26405122,-97.77013586,Flow (Cubic feet per second),6.74,10/1/2014,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6154,30.26408358,-97.76867081,Flow (Cubic feet per second),30.63,10/1/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6155,30.26408358,-97.76867081,Water temperature (Deg. Celsius),70.9,10/1/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6157,30.26405122,-97.77013586,Flow (Cubic feet per second),6.5,10/1/2014,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6159,30.26408358,-97.76867081,Flow (Cubic feet per second),39.24,10/1/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6160,30.26408358,-97.76867081,Water temperature (Deg. Celsius),71.3,10/1/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6162,30.26405122,-97.77013586,Flow (Cubic feet per second),6.15,10/1/2014,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6164,30.26408358,-97.76867081,Flow (Cubic feet per second),44.82,10/1/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6165,30.26408358,-97.76867081,Flow (Cubic feet per second),30.44,11/17/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6166,30.26408358,-97.76867081,Water temperature (Deg. Celsius),69.3,11/17/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Deg. Fahrenheit,TRUE
+6168,30.26405122,-97.77013586,Flow (Cubic feet per second),5.35,11/17/2014,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6171,30.26405122,-97.77013586,Flow (Cubic feet per second),8.51,12/2/2014,Barton Springs Pool Bypass Tunnel U/S of Eliza Spg,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6172,30.26408358,-97.76867081,Flow (Cubic feet per second),55.85,12/2/2014,Barton Creek Downstream of Barton Spring Pool,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+6174,30.26367946,-97.77221814,Flow (Cubic feet per second),2.43,12/2/2014,Barton Spring Pool Bypass Upstream End,Stream,Barton Creek,Cubic Feet Per Second,TRUE
+8766,30.16620792,-97.89821521,Ammonia as N (mg/L),0.02,6/14/1999,Bear Creek @ Centerfit/Perry/Wisebart,Stream,Bear Creek,MG/L,TRUE
+8771,30.16620792,-97.89821521,Flow (Cubic feet per second),0.03,6/14/1999,Bear Creek @ Centerfit/Perry/Wisebart,Stream,Bear Creek,Cubic Feet Per Second,TRUE
+8773,30.16620792,-97.89821521,Conductivity (uS/cm),519,6/14/1999,Bear Creek @ Centerfit/Perry/Wisebart,Stream,Bear Creek,uS/cm,TRUE
+8774,30.16620792,-97.89821521,Water temperature (Deg. Celsius),32.1,6/14/1999,Bear Creek @ Centerfit/Perry/Wisebart,Stream,Bear Creek,Deg. Fahrenheit,TRUE
+8775,30.16620792,-97.89821521,pH (Standard units),8.42,6/14/1999,Bear Creek @ Centerfit/Perry/Wisebart,Stream,Bear Creek,Standard units,TRUE
+8776,30.16620792,-97.89821521,Turbidity (NTU),1,6/14/1999,Bear Creek @ Centerfit/Perry/Wisebart,Stream,Bear Creek,NTU,TRUE

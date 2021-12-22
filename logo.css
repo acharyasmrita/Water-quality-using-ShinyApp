@@ -1,0 +1,5 @@
+.mydiv {
+    width:100px; /*width of your image*/
+    height:100px; /*height of your image*/
+    background-image:url('austin.logo.png');
+ }
